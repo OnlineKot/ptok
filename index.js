@@ -57,6 +57,15 @@ const ART = [
 ░▓▒▒▒▓▓▓▓▓▓▓▒▒▓░
 ░░▓▒▒▒▒▒▒▒▒▒▒▓░░
 ░░░▓▓▓▓▓▓▓▓▓▓░░░
+  `,
+  `
+        _____
+       /     \\
+      | () () |
+       \\  ^  /
+        |||||
+        |||||
+   PTOSZEK PATRZY
   `
 ]
 
@@ -107,7 +116,12 @@ const PHRASES = [
   'hee haw hee haw hee haw hee haw hee haw hee haw hee haw hee haw hee haw hee haw hee haw',
   'abcdefghijklmnopqrstuvwxyz abcdefghijklmnopqrstuvwxyz',
   'aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaak',
-  'eyo eyo eyo eyo eyo eyo eyo eyo eyo eyo eyo eyo eyo eyo eyo eyo eyo eyo eyo eyo eyo eyo eyo eyo'
+  'eyo eyo eyo eyo eyo eyo eyo eyo eyo eyo eyo eyo eyo eyo eyo eyo eyo eyo eyo eyo eyo eyo eyo eyo',
+  'ptoszek ptoszek ptoszek ptoszek leci leci leci',
+  'cziry cziry cziry knur knur knur',
+  'kto to ptoszek kto to ptoszek no kto',
+  'pi pi pi pi pi pi pi pi pi pi pi pi piu',
+  'dzien dobry tu ptoszek prosze nie zamykac'
 ]
 
 const LOGOUT_SITES = {
